@@ -1,10 +1,5 @@
 # Traffic Vision
 
-This Project is made as a part of internship project evaluation for Web Development role for IISC Banglore, India.
-
-# Prototype
-[You Tube | Video ( _Click Here_ )](https://youtu.be/FzVe_E0XTC4)
-
 ## 1.0 Problem Statement
 
 Develop a web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images.
@@ -26,7 +21,7 @@ Traffic Vision is a full-stack web application that takes an image input, sends 
 ### 4.1: Install the project by giving a star to the project cloning this repo from your terminal.
 
 ```bash
-https://github.com/abhyuday1212/CiSTUP-IISC-WebDevelopment.git
+https://github.com/Jainendra0102/Traffic-Vision.git
 ```
 
 
@@ -76,7 +71,7 @@ _Libraries used:_ OpenCV, numpy, Yolo
 ## 7.0 Support
 
 For support, email me on -
-Abhyuday Pratap singh : apsworks1212@gmail.com
+Jainendra Mall : jainendramall143@gmail.com
 </br>
  
  
